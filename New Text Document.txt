@@ -1,0 +1,4 @@
+<a data-toggle="scroll" href="#everad_form"><img
+                                src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="464" height="101"><rect fill-opacity="0"/></svg>'
+                                class="mainLogo"
+                                style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-3)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"></a>
